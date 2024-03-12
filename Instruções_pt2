@@ -1,0 +1,5 @@
+Acesse https://the-internet.herokuapp.com/key_presses?
+Crie um teste para pressionar automaticamente 3 teclas diferente, nos moldes do exemplo do professor.
+Pelo menos um tecla deve ser um F (F1, F2, F3...) e outra deve ser uma tecla de comando (Enter, Backspace, Delete...)
+Para ver como adicionar teclas como entrada, leia a documentação do Selenium em https://selenium-python.readthedocs.io/getting-started.html
+Divirtam-se!
